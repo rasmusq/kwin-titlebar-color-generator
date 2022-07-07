@@ -32,5 +32,7 @@ The center pixel from this area will be the color of the titlebar
 ## Future work
 
 1: Remove need to type password
+
 2: Make a list of all colors in screenshot for the user to choose from
+
 3: Clean up code (it is a mess)
