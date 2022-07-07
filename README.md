@@ -7,7 +7,14 @@ Must use KWin window manager ('kwin_x11')
 
 Arch Linux:
 ```
-sudo pacman -S scrot xprop nodejs
+sudo pacman -S scrot xprop nodejs npm
+```
+
+## Installation
+
+Run:
+```
+npm install
 ```
 
 ## Usage
