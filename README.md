@@ -16,6 +16,7 @@ Run:
 ```
 npm install
 ```
+This installs the node modules needed for the script
 
 ## Usage
 
