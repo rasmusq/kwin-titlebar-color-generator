@@ -4,10 +4,11 @@ Uses scrot and xprop to generate a color-scheme from a screenshot and apply it a
 ## Dependencies
 
 Must use KWin window manager ('kwin_x11')
+Must use X11
 
 Arch Linux:
 ```
-sudo pacman -S scrot xprop nodejs npm
+sudo pacman -S scrot nodejs npm
 ```
 
 ## Installation
